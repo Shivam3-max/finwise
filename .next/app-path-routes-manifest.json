@@ -1,9 +1,10 @@
 {
+  "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
-  "/calculators/page": "/calculators",
-  "/compare/page": "/compare",
   "/about/page": "/about",
   "/advisors/page": "/advisors",
-  "/page": "/",
-  "/learn/page": "/learn"
+  "/calculators/page": "/calculators",
+  "/compare/page": "/compare",
+  "/learn/page": "/learn",
+  "/page": "/"
 }

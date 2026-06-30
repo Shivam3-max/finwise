@@ -1,0 +1,3 @@
+module.exports=[83455,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(54335);a.n(d("[project]/Desktop/Claude code/finpilot/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},16593,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(54335);a.n(d("[project]/Desktop/Claude code/finpilot/node_modules/next/dist/client/components/builtin/global-error.js"))},17997,a=>{"use strict";a.i(83455);var b=a.i(16593);a.n(b)},4016,a=>{a.n(a.i(17997))}];
+
+//# sourceMappingURL=0sa1_next_dist_client_components_builtin_global-error_0qmne45.js.map
